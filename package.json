@@ -10,12 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.0.1",
     "02-ignite-timer": "file:",
     "phosphor-react": "^1.4.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-hook-form": "^7.56.1",
     "react-router-dom": "^7.5.2",
-    "styled-components": "^6.1.17"
+    "styled-components": "^6.1.17",
+    "zod": "^3.24.3"
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.2.2",
