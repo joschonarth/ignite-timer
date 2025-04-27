@@ -10,64 +10,64 @@
 
 ![ignite-timer](https://github.com/user-attachments/assets/7646e94c-fb91-4b8c-9530-fd918fa1497f)
 
-## 📖 Visao Geral
+## 📖 Visão Geral
 
-**Ignite Timer** é uma aplicacao web que permite ao usuario definir um projeto/tarefa e um tempo para trabalhar focado, no estilo Pomodoro. Desenvolvida com foco em boas praticas de React, gerenciamento de formularios, controle de rotas e manipulacao de datas.
+**Ignite Timer** é uma aplicação web de gerenciamento de tempo no estilo Pomodoro, desenvolvida com React. Focada em ajudar os usuários a gerenciar suas tarefas de forma eficiente, a aplicação permite definir projetos e ciclos de foco, promovendo uma experiência fluida e prática para aumentar a produtividade. O usuário pode configurar o tempo de trabalho, acompanhar o progresso e interromper os ciclos a qualquer momento.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- ⚛️ **React** – Biblioteca para construcao de interfaces interativas.
-- 🟦 **TypeScript** – Tipagem estatica para JavaScript.
-- ⚡ **Vite** – Ferramenta moderna de build e dev server rapido.
-- 🎨 **Styled-Components** – Estilizacao com CSS-in-JS.
-- 💎 **Zod** – Validacao de schemas e formularios.
-- 🗓️ **date-fns** – Manipulacao e formatacao de datas.
-- 🎨 **phosphor-react** – Conjunto de icones personalizaveis.
-- 📋 **react-hook-form** – Gerenciamento de formularios reativo e flexivel.
+- ⚛️ **React** – Biblioteca para construção de interfaces interativas.
+- 🟦 **TypeScript** – Tipagem estática para JavaScript.
+- ⚡ **Vite** – Ferramenta moderna de build e dev server rápido.
+- 💅 **Styled-Components** – Estilização com CSS-in-JS.
+- 💎 **Zod** – Validação de schemas e formulários.
+- 🗓️ **date-fns** – Manipulação e formatação de datas.
+- 🎨 **phosphor-react** – Conjunto de ícones personalizáveis.
+- 📋 **react-hook-form** – Gerenciamento de formulários reativo e flexível.
 - 🔗 **react-router-dom** – Gerenciamento de rotas no React.
 - 🌿 **Immer** – Imutabilidade simplificada no gerenciamento de estado.
-- 🧹 **ESLint** – Ferramenta para analise e padronizacao do codigo.
+- 🧹 **ESLint** – Ferramenta para análise e padronização do código.
 
 ## ⚙️ Funcionalidades
 
-- **⏱️ Definir ciclos de trabalho**: Escolha uma tarefa e determine a duracao do foco.
+- **⏱️ Definir ciclos de trabalho**: Escolha uma tarefa e determine a duração do foco.
 - **🛑 Interromper ciclos ativos**: Pare o timer a qualquer momento.
-- **🧾 Historico de ciclos**: Veja registros de tarefas concluidas ou interrompidas.
-- **💾 Armazenamento no localStorage**: Os ciclos de trabalho são salvos no `localStorage` para persistência entre sessões.
-- **🎨 Estilizacao moderna**: Visual dark elegante e responsivo.
-- **🗂️ Gerenciamento de formularios**: Validacao eficiente utilizando `react-hook-form` e `zod`.
-- **🚣️ Navegacao entre rotas**: Separacao de paginas com `react-router-dom`.
+- **🧾 Histórico de ciclos**: Veja registros de tarefas concluídas ou interrompidas.
+- **💾 Armazenamento no localStorage**: Os ciclos de trabalho são salvos no **localStorage** para persistência entre sessões.
+- **🎨 Estilização moderna**: Visual dark elegante e responsivo.
+- **🗂️ Gerenciamento de formulários**: Validação eficiente utilizando `react-hook-form` e `zod`.
+- **🚣️ Navegação entre rotas**: Separação de páginas com `react-router-dom`.
 
 ## 🚀 Como Executar o Projeto
 
-### 📋 Pre-requisitos
+### 📋 Pré-requisitos
 
 - 🟩 [Node.js 20](https://nodejs.org/en/download/)
 - 📦 [npm 10](https://www.npmjs.com/)
 
-### 🔧 Instalacao
+### 🔧 Instalação
 
-1. Clone o repositorio:
+1. Clone o repositório:
 
     ```bash
     git clone https://github.com/joschonarth/ignite-timer.git
     ```
 
-2. Acesse o diretorio do projeto:
+2. Acesse o diretório do projeto:
 
     ```bash
     cd ignite-timer
     ```
 
-3. Instale as dependencias:
+3. Instale as dependências:
 
     ```bash
     npm install
     ```
 
-### ▶️ Execucao
+### ▶️ Execução
 
-Inicie a aplicacao:
+Inicie a aplicação:
 
 ```bash
 npm run dev
@@ -81,15 +81,15 @@ Clique no link abaixo para visualizar o projeto em funcionamento:
 
 👉 [Acesse a aplicação](https://ignite-timer-ten-umber.vercel.app)
 
-## 🤝 Contribuicoes
+## 🤝 Contribuições
 
-Contribuicoes sao muito bem-vindas! Sinta-se a vontade para abrir issues ou pull requests com melhorias ou correcoes.
+Contribuições são muito bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias ou correções.
 
 ## ⭐ Apoie este Projeto
 
-Se curtir o projeto, deixe uma ⭐ para ajudar na divulgacao e motivacao!
+Se você gostou da aplicação, deixe uma ⭐ no repositório!
 
 ## 📞 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
