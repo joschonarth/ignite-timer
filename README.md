@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/github/languages/count/joschonarth/ignite-timer?style=for-the-badge&color=1F8459&labelColor=1C1E26" alt="languages-count">
 </p>
 
+![ignite-timer](https://github.com/user-attachments/assets/7646e94c-fb91-4b8c-9530-fd918fa1497f)
+
 ## 📖 Visao Geral
 
 **Ignite Timer** é uma aplicacao web que permite ao usuario definir um projeto/tarefa e um tempo para trabalhar focado, no estilo Pomodoro. Desenvolvida com foco em boas praticas de React, gerenciamento de formularios, controle de rotas e manipulacao de datas.
@@ -77,7 +79,7 @@ Acesse o projeto em: [http://localhost:5173](http://localhost:5173)
 
 Clique no link abaixo para visualizar o projeto em funcionamento:
 
-👉 [Acesse a aplicação](ignite-timer-ten-umber.vercel.app)
+👉 [Acesse a aplicação](https://ignite-timer-ten-umber.vercel.app)
 
 ## 🤝 Contribuicoes
 
