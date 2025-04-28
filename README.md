@@ -75,7 +75,7 @@ npm run dev
 
 Acesse o projeto em: [http://localhost:5173](http://localhost:5173)
 
-## 🚀  Acesse a Aplicação
+## 🌐 Acesse a Aplicação
 
 Clique no link abaixo para visualizar o projeto em funcionamento:
 
@@ -83,7 +83,7 @@ Clique no link abaixo para visualizar o projeto em funcionamento:
 
 ## 🤝 Contribuições
 
-Contribuições são muito bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias ou correções.
+Contribuições são muito bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias ou correções. 🚀
 
 ## ⭐ Apoie este Projeto
 
